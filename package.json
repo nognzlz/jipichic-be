@@ -16,6 +16,7 @@
     "sequelize": "^6.31.1"
   },
   "devDependencies": {
+    "prettier": "2.8.8",
     "wrangler": "^2.18.0"
   }
 }
